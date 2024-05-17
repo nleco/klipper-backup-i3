@@ -6,4 +6,4 @@ printer-[0-9]*_[0-9]*.cfg
 config_backup.bak
 *.bkp
 *.csv
-*.zip
+config_back.zip
